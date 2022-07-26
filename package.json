@@ -9,7 +9,7 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "LukhanyoV",
+  "author": "Princessn",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^10.0.0"
@@ -17,11 +17,11 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LukhanyoV/bootcamp-terminal-tests.git"
+    "url": "git+https://github.com/Princessn/bootcamp-terminal-tests.git"
   },
   "bugs": {
-    "url": "https://github.com/LukhanyoV/bootcamp-terminal-tests/issues"
+    "url": "https://github.com/Princessn/bootcamp-terminal-tests/issues"
   },
-  "homepage": "https://github.com/LukhanyoV/bootcamp-terminal-tests#readme",
+  "homepage": "https://github.com/Princessn/bootcamp-terminal-tests#readme",
   "description": ""
 }
